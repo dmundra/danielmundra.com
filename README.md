@@ -1,3 +1,7 @@
+## Contact
+
+Get in touch at projects@danielmundra.com.
+
 ## About
 
 ### Freelance​
