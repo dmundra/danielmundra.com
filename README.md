@@ -85,7 +85,7 @@ Other projects:
 
 * September 2021 - Present: Associate Director of Drupal, [CivicActions](https://civicactions.com/), Lafayette, CA
 * December 2020 - Present: Back-end Engineer, [CivicActions](https://civicactions.com/), Lafayette, CA
-* May 2016 - December 2020: Back-end Engineer, [Information Services](https://is.uoregon.edu/), University of Oregon, Eugene, OR
+* May 2016 - December 2020: Senior Developer, College of Arts and Sciences Information Technology Support Service (CASIT) & [Information Services](https://is.uoregon.edu/), University of Oregon, Eugene, OR
 * July 2013 - May 2016: Web Services Manager, College of Arts and Sciences Information Technology Support Service (CASIT), University of Oregon, Eugene, OR
 * June 2010 - July 2013: Analyst Programmer, College of Arts and Sciences Information Technology Support Service (CASIT), University of Oregon, Eugene, OR
 
