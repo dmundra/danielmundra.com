@@ -1,6 +1,6 @@
 ## Contact
 
-Get in touch at projects@danielmundra.com.
+Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
 
 ## About
 
