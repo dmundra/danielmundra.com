@@ -76,3 +76,16 @@ Other projects:
 * SSIL Computers Map: Display's SSIL computer statuses on a map of McKenzie Hall fourth floor. The computer status data comes from CASIT Forms and the map API is provided by InfoGraphics Lab.
 * UO Spaces: Site and custom module created connect to Space data inventory database API to manage space on campus. I deployed this site to Drupal Central Hosting. I worked with InfoGraphics Lab who provided the API for the database and Map. The site displays the space data using DataTables module and maps using InfoGraphics Lab library that is based on leaflet.
 * CAS Profiles: Drupal site serves as a central location for CAS faculty and staff profiles. Profiles are maintained on this site and then the data is provided as feeds to department sites for them to display their faculty and staff.
+
+### Work timeline
+
+* September 2021 - Present: Associate Director of Drupal, [CivicActions](https://civicactions.com/), Lafayette, CA
+* December 2020 - Present: Back-end Engineer, [CivicActions](https://civicactions.com/), Lafayette, CA
+* May 2016 - December 2020: Back-end Engineer, [Information Services](https://is.uoregon.edu/), University of Oregon, Eugene, OR
+* July 2013 - May 2016: Web Services Manager, College of Arts and Sciences Information Technology Support Service (CASIT), University of Oregon, Eugene, OR
+* June 2010 - July 2013: Analyst Programmer, College of Arts and Sciences Information Technology Support Service (CASIT), University of Oregon, Eugene, OR
+
+### Education
+
+* September 2009 - June 2010, Masters of Science, Computer and Information Science, University of Oregon, Eugene, OR
+* September 2006 - June 2009, Bachelor of Science, Computer and Information Science, University of Oregon, Eugene, OR 
