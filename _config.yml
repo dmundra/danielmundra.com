@@ -21,8 +21,7 @@
 title: Daniel Mundra
 email: projects@danielmundra.com
 description: >- # this means to ignore newlines until "baseurl:"
-  About, projects and contact information for Daniel Mundra. Projects are images that showcase sites and applications
-  built by this Drupal developer.
+  About, projects and contact information for Daniel Mundra.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmundra.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dmundra
