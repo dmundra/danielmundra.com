@@ -15,7 +15,7 @@ Some of the applications and sites I have worked on that can still be seen onlin
 * [The Farm Family Project](http://farmfamilyproject.org/): Website setup with WordPress.
 * [COACh](https://coach.uoregon.edu/): COACh is a Drupal site. It was developed for Geri Richmond and Pricilla Lewis to share information about the COACh program. The site uses a theme called Corporate+.
 * [The Broadcast 41](https://broadcast41.com/): Created a Drupal site using Corporate+ theme to accompany the book by author Carol Stabile. Used the site and theme to present the individuals catalogued in the book. Inspired by the BBC website.
-* [The Medieval Elbe](https://medievalelbe.uoregon.edu/): Drupal interactive site created for History professor and researcher Lisa Wolverton. The site allows the professors to highlight the texts and tag them with various labels. This is then presented to users to interact and review texts under those labels.
+* [The Medieval Elbe](https://medievalelbe.org/): Drupal interactive site created for History professor and researcher Lisa Wolverton. The site allows the professors to highlight the texts and tag them with various labels. This is then presented to users to interact and review texts under those labels.
 * [Genomics and Cell Characterization Core Facility website](https://gc3f.uoregon.edu/): Drupal site built with custom content-types and integrations with iLab Core Facility Management API.
 
 Other projects:
