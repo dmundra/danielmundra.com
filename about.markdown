@@ -10,6 +10,14 @@ I create and manage custom Drupal, HTML/CSS, and WordPress sites.
 
 I am comfortable configuring, maintaining, and using the LAMP (Linux, Apache, MySQL, PHP) stack. I work with hosting sites like Bluehost, Hostinger, Rackspace, and more to host the sites.
 
+### Posts
+
+- [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8)
+- [Automated accessibility testing at Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing)
+- [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
+- [How we scale inclusive website content with automated testing and open source tools](https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools)
+- [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe)
+
 ### Full-time
 
 #### Currently
@@ -49,7 +57,7 @@ As an engineer:
 
 * I live in Eugene, OR.
 * I graduated from the University of Oregon with a master's in computer science.
-* I volunteer with the Eugene ToolBox Project as a tool librarian and [secretary of the board of directors](https://www.eugenetoolboxproject.org/board-of-directors.html).
+* I volunteer with the Eugene ToolBox Project as a tool librarian and [member of the board of directors](https://www.eugenetoolboxproject.org/board-of-directors.html).
 
 ### Work timeline
 
