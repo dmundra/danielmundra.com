@@ -12,6 +12,7 @@ I am comfortable configuring, maintaining, and using the LAMP (Linux, Apache, My
 
 ### Posts
 
+- [Handling bot traffic on government websites](https://medium.com/civicactions/handling-bot-traffic-on-government-websites-0a558c2db440)
 - [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8)
 - [Automated accessibility testing at Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing)
 - [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
