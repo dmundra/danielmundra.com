@@ -25,9 +25,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://danielmundra.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: dmundra
-author_profile: false
 atom_feed:
   hide: true
+
+# Author Settings
+author:
+  name: "Daniel Mundra"
+  bio: "I create and manage custom Drupal, HTML/CSS, and WordPress sites."
+  links:
+    - label: "Drupal"
+      icon: "fab fa-fw fa-drupal"
+      url: "https://drupal.org/u/dmundra"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dmundra"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
