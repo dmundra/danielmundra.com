@@ -15,4 +15,4 @@ jobs:
         with:
           path: ./
           ignore_words_file: .config/codespell-ignore
-          skip: package-lock.json
+          skip: package-lock.json,Daniel_Mundra_Resume.pdf,Gemfile.lock,Gemfile
