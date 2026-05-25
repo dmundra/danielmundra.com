@@ -6,13 +6,11 @@ toc: true
 toc_sticky: true
 ---
 
-### Professional Summary
+### Senior Software Engineer & Engineering Manager
 
-I am an experienced engineering manager, senior software developer, and technical leader specializing in robust, scalable web applications and enterprise CMS architecture. I am passionate about building accessible digital experiences and managing teams to deliver high-quality solutions.
+I build scalable, accessible web architecture and lead high-performing engineering teams. With deep expertise in DevOps, complex CMS environments, and technical strategy, I bridge the gap between hands-on execution and team leadership.
 
-**Mission-Driven Focus:** I am deeply committed to collaborative, community-focused environments. Outside of my corporate work, my active volunteer leadership with organizations like the Eugene ToolBox Project provides examples of my ability to manage teams, coordinate hiring processes, and guide projects outside of traditional technical structures.
-
-Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or [download my resume](Daniel_Mundra_Resume.pdf){: .btn .btn--primary}. You can also find me on [GitHub](https://github.com/dmundra).
+Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or [download my resume](Daniel_Mundra_Resume.pdf){: .btn .btn--primary}. You can also find me on [GitHub](https://github.com/dmundra) or [Drupal](https://www.drupal.org/u/dmundra).
 
 ### Technical Expertise & Dev Infrastructure
 
@@ -23,8 +21,8 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or
 
 ### Writing & Insights
 
-- [Handling bot traffic on government websites](https://medium.com/civicactions/handling-bot-traffic-on-government-websites-0a558c2db440)
-- [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8)
+- [Handling bot traffic on government websites](https://medium.com/civicactions/handling-bot-traffic-on-government-websites-0a558c2db440): details how we identified and mitigated a surge in malicious bot traffic using strategies like regional blocking, rate limiting, JavaScript challenges, and JA4 fingerprinting to safeguard website performance and reduce infrastructure costs.
+- [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8): co-authored with Dr. Eryn Cangi, explains how intermediate Git users can leverage automation tools—such as linting, automated testing, pull request protections, and secrets management—to eliminate workflow errors and save valuable time.
 - [Automated accessibility testing at Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing)
 - [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
 - [How we scale inclusive website content with automated testing and open source tools](https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools)
@@ -39,14 +37,14 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or
 I work for [CivicActions](https://civicactions.com/) as an Associate Director of Drupal.
 
 As associate director:
-* I support and mentor 6 direct reports on their projects, technical leadership opportunities, professional development, their related objectives and key results. I help them resolve conflicts and coach them on leading and supporting their team members on their work and contributing back.
+* I support and mentor 6 highly experienced engineers with an average of 15 years of industry experience. I help them with their projects, technical leadership opportunities, professional development, their related objectives and key results. I help them resolve conflicts and coach them on leading and supporting their team members on their work and contributing back.
 * I participate in program, practice areas, and policy discussions and implementation. I helped review the COVID-19 vaccine policy and affirmative action policy. I brought together coworkers, worked on, and updated the handbook with an updated tech lead role description, the CivicActions Accessibility champions program, video call best practices, difficult conversation guide, Drupal practice area onboarding documentation, and manager support best practices. I also participate in leadership training. For example I helped lead an OKR activity at a leadership summit, I do role playing exercises with new managers, and I lead a conversation training exercise for all managers.
 * I participate in hiring by conducting interviews and reviewing take home submissions. I have also helped improve our take home exercise to have more automated tests and updated descriptions to assist the applicants. I also serve as hiring manager for web accessibility engineer hires where I have handled communications, worked with subject matters experts to create and update the questions, work with hiring lead to schedule interviews and help pick the best candidate. I also help retrospect on our hiring process and work on improving them. For example after internal hire missteps, I interviewed the internal candidate to get their feedback and use that to define areas of improvements like communication and handling project implications.
 * I support other teams on agile practices. I helped review the team working for the National Science Foundation on their implementation of the LESS framework and how they try to be agile with that framework.
 
 As an engineer:
 * I work on scrum teams with developers, DevSecOps engineers, QA engineers, project manager, and product owner. I serve as a backend, DevOps, and lead engineer working primarily on [Drupal](https://www.drupal.org/u/dmundra) to build enterprise-level websites for client organizations.
-* I am DevOps lead for the National Science Foundation main site and I work with a team to support Jenkins and AWS infrastructure. I ensure the developers have stable Jenkins jobs for their code changes and are getting timely feedback for their work.
+* I am DevOps lead for the National Science Foundation main site and I work with a team to support Jenkins and AWS infrastructure. I have implemented advanced bot mitigation strategies to secure site availability and performance. I ensure the developers have stable Jenkins jobs for their code changes and are getting timely feedback for their work. Recently helped cut automated build times nearly in half (from 60–70 minutes down to 30–40 minutes).
 * I supported multiple Drupal data sites for Centers of Medicare and Medicaid Services by doing code reviews and writing tests for the open source DKAN project that powers the sites.
 * I worked on the Defense Security Cooperation Agency's GlobalNET platform project. I created Drupal and ILIAS solutions and tests that make up the platform. I also worked with the DevSecOps engineers to improve our continuous integration that runs on Docker and GitLab and help troubleshoot site issues in AWS. I also contributed back solutions to the Drupal and ILIAS communities.
 * I worked on the General Services Administration's (GSA) OpenACR project. OpenACR is a digital native Accessibility Conformance Report (ACR) product. I create validator, editor tools with tests in JavaScript, TypeScript, Node, and Svelte. I use GitHub to manage the source, run the tests in GitHub actions and deploy the editor to GitHub pages.
