@@ -22,8 +22,8 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
 - [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
 - [How we scale inclusive website content with automated testing and open source tools](https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools)
 - [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe)
-- [Docker Swarm](docker-swarm.markdown)
-- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.markdown)
+- [Docker Swarm](docker-swarm.md)
+- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.md)
 
 ### Full-time
 

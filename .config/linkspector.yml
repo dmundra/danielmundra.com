@@ -10,3 +10,4 @@ ignorePatterns:
   - pattern: "^https://linux.die.net/.*"
   - pattern: "^https://www.congress.gov/.*"
   - pattern: "^https://creativecommons.org/.*"
+  - pattern: "^https://globalnetplatform.org/.*"
