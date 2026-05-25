@@ -1,0 +1,17 @@
+{
+  "defaults": {
+    "concurrency": 1,
+    "standard": "WCAG2AA",
+    "runners": ["axe", "htmlcs"],
+    "chromeLaunchConfig": {
+      "args": [
+        "--no-sandbox",
+        "--disable-gpu",
+        "--disable-dev-shm-usage"
+      ]
+    }
+  },
+  "sitemap": "http://localhost:4000/sitemap.xml",
+  "sitemapFind": "https://danielmundra.com",
+  "sitemapReplace": "http://localhost:4000"
+}

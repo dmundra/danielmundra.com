@@ -48,6 +48,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-sitemap
 
 google_analytics: G-20CD9NKQ9N
 
@@ -59,14 +60,16 @@ google_analytics: G-20CD9NKQ9N
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - lint
+  - package.json
+  - package-lock.json
+  - .gitignore
+  - .github
+  - .pa11yci
+  - pa11y_output.txt
+  - .tugboat
+  - LICENSE
