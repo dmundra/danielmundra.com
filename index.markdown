@@ -22,8 +22,8 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
 - [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
 - [How we scale inclusive website content with automated testing and open source tools](https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools)
 - [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe)
-- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.markdown)
 - [Docker Swarm](docker-swarm.markdown)
+- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.markdown)
 
 ### Full-time
 
@@ -32,7 +32,7 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
 I work for [CivicActions](https://civicactions.com/) as an Associate Director of Drupal.
 
 As associate director:
-* I support and mentor 7 direct reports on their projects, technical leadership opportunities, professional development, their related objectives and key results. I help them resolve conflicts and coach them on leading and supporting their team members on their work and contributing back.
+* I support and mentor 6 direct reports on their projects, technical leadership opportunities, professional development, their related objectives and key results. I help them resolve conflicts and coach them on leading and supporting their team members on their work and contributing back.
 * I participate in program, practice areas, and policy discussions and implementation. I helped review the COVID-19 vaccine policy and affirmative action policy. I brought together coworkers, worked on, and updated the handbook with an updated tech lead role description, the CivicActions Accessibility champions program, video call best practices, difficult conversation guide, Drupal practice area onboarding documentation, and manager support best practices. I also participate in leadership training. For example I helped lead an OKR activity at a leadership summit, I do role playing exercises with new managers, and I lead a conversation training exercise for all managers.
 * I participate in hiring by conducting interviews and reviewing take home submissions. I have also helped improve our take home exercise to have more automated tests and updated descriptions to assist the applicants. I also serve as hiring manager for web accessibility engineer hires where I have handled communications, worked with subject matters experts to create and update the questions, work with hiring lead to schedule interviews and help pick the best candidate. I also help retrospect on our hiring process and work on improving them. For example after internal hire missteps, I interviewed the internal candidate to get their feedback and use that to define areas of improvements like communication and handling project implications.
 * I support other teams on agile practices. I helped review the team working for the National Science Foundation on their implementation of the LESS framework and how they try to be agile with that framework.
