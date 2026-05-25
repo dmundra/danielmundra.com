@@ -7,13 +7,9 @@
     "build": "bundle exec jekyll build",
     "start": "bundle exec jekyll serve",
     "start-detached": "bundle exec jekyll serve --detach",
-    "pa11y-ci:sitemap": "pa11y-ci",
-    "link-checker": "bundle exec htmlproofer --ignore-status-codes \"999,429,403,401,307,302,0\" ./_site"
+    "pa11y-ci:sitemap": "pa11y-ci"
   },
   "devDependencies": {
-    "pa11y-ci": "^4.0.1",
-    "remark-cli": "^11.0.0",
-    "remark-frontmatter": "^4.0.1",
-    "remark-preset-lint-recommended": "^6.1.2"
+    "pa11y-ci": "^4.0.1"
   }
 }

@@ -64,7 +64,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - lint
+  - .config
   - package.json
   - package-lock.json
   - .gitignore
