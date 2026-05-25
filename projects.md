@@ -3,9 +3,27 @@ layout: single
 title: Projects
 permalink: /projects/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
-Some of the applications and sites I have worked on that can still be seen online:
+Here is a selection of projects highlighting my work in architecture, infrastructure, and technical leadership.
+
+### Featured Case Studies
+
+#### OpenACR & Accessibility Tools
+* **The Challenge:** Creating a digital native Accessibility Conformance Report (ACR) product based on Section 508 requirements.
+* **The Solution:** Developed a validator using TypeScript and Node, and an editor built with Svelte and JavaScript. Leveraged GitHub Actions for testing and deployment to GitHub Pages.
+* **The Impact:** Scalable, open-source accessibility compliance tools currently used by the General Services Administration (GSA).
+
+#### Enterprise Cloud Integration (University of Oregon)
+* **The Challenge:** Building comprehensive reports on student success by merging daily learning management data with enterprise data.
+* **The Solution:** Implemented an Azure-based architecture utilizing App Services, Functions, Data Factory, and PostgreSQL/MySQL services. Developed Angular and .NET solutions with continuous integration via Azure DevOps.
+* **The Impact:** Delivered secure, automated data pipelines and robust web applications to support critical university operations.
+
+### CMS Architecture & Development
+
+I have extensive experience with web development, custom module management, and complex CMS configurations. Below are some of the applications and sites I have worked on that can still be seen online:
 * [Nita Dhurandhar Art](https://ndhurandhar.art/): Drupal CMS site hosted at Hostinger.
 * [Tini's Chocolates](https://tinischocolates.com/): Drupal CMS site hosted at Hostinger.
 * [Tragedy of the Commons](https://tragedy.ronaldbmitchell.com/): Drupal CMS site hosted at Hostinger, hosting the [Drupal module](https://www.drupal.org/project/tragedy_commons) version of the game.
