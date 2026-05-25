@@ -74,3 +74,5 @@ exclude:
   - pa11y_output.txt
   - .tugboat
   - LICENSE
+  - .pre-commit-config.yaml
+  - CNAME
