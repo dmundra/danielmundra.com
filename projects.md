@@ -3,6 +3,8 @@ layout: single
 title: Projects
 permalink: /projects/
 author_profile: true
+toc: true
+toc_sticky: true
 ---
 
 Here is a selection of projects highlighting my work in architecture, infrastructure, and technical leadership.
