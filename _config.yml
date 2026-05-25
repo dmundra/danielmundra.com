@@ -61,6 +61,7 @@ google_analytics: G-20CD9NKQ9N
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - vendor
   - Gemfile
   - Gemfile.lock
   - node_modules
