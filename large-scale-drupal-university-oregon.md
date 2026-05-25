@@ -11,7 +11,7 @@ This was presented at the 2015 Pacific Northwest Drupal Summit.
 
 ## Session Summary
 
-If you manage multiple Drupal sites, you know how challenging designing and supporting your service can be. Aside from dealing with software updates, versioning, and release management, you have to respond to the needs of your clients. What happens when your hosting clients are developers? This is the challenge we’ve taken on at the University of Oregon. In this session, we’ll discuss some of the difficulties we’ve faced and the solutions we’ve developed to meet the needs of siloed developers from around campus. Our solution uses Drupal resources from across campus to provide features like SSL, Shibboleth, Git hosting and more.
+If you manage multiple Drupal sites, you know how challenging designing and supporting your service can be. Aside from dealing with software updates, versioning, and release management, you have to respond to the needs of your clients. What happens when your hosting clients are developers? This is the challenge we've taken on at the University of Oregon. In this session, we'll discuss some of the difficulties we've faced and the solutions we've developed to meet the needs of siloed developers from around campus. Our solution uses Drupal resources from across campus to provide features like SSL, Shibboleth, Git hosting and more.
 
 ## The Problem
 

@@ -1,0 +1,14 @@
+{
+  "defaults": {
+    "concurrency": 1,
+    "standard": "WCAG2AA",
+    "runners": ["axe", "htmlcs"],
+    "chromeLaunchConfig": {
+      "args": [
+        "--no-sandbox",
+        "--disable-gpu",
+        "--disable-dev-shm-usage"
+      ]
+    }
+  }
+}
