@@ -1,0 +1,16 @@
+{
+  "name": "danielmundra.com",
+  "version": "1.0.0",
+  "description": "Personal website for Daniel Mundra",
+  "scripts": {
+    "postinstall": "bundle",
+    "build": "bundle exec jekyll build",
+    "start": "bundle exec jekyll serve",
+    "start-detached": "bundle exec jekyll serve --detach",
+    "pa11y-ci:home": "pa11y-ci http://127.0.0.1:4000",
+    "pa11y-ci:sitemap": "pa11y-ci --sitemap http://127.0.0.1:4000/sitemap.xml --sitemap-find https://danielmundra.com --sitemap-replace http://127.0.0.1:4000 --sitemap-exclude \"/*.pdf\""
+  },
+  "devDependencies": {
+    "pa11y-ci": "^4.0.1"
+  }
+}

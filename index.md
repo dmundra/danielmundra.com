@@ -22,8 +22,8 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
 - [Drupal Takes a Step Forward in Accessibility with Automated Testing Integration](https://www.thedroptimes.com/30928/how-drupal-improves-accessibility)
 - [How we scale inclusive website content with automated testing and open source tools](https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools)
 - [Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe](https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe)
-- [Docker Swarm](docker-swarm.markdown)
-- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.markdown)
+- [Docker Swarm](docker-swarm.md)
+- [Large Scale Drupal at the University of Oregon](large-scale-drupal-university-oregon.md)
 
 ### Full-time
 
@@ -42,15 +42,15 @@ As an engineer:
 * I am DevOps lead for the National Science Foundation main site and I work with a team to support Jenkins and AWS infrastructure. I ensure the developers have stable Jenkins jobs for their code changes and are getting timely feedback for their work.
 * I supported multiple Drupal data sites for Centers of Medicare and Medicaid Services by doing code reviews and writing tests for the open source DKAN project that powers the sites.
 * I worked on the Defense Security Cooperation Agency's GlobalNET platform project. I created Drupal and ILIAS solutions and tests that make up the platform. I also worked with the DevSecOps engineers to improve our continuous integration that runs on Docker and GitLab and help troubleshoot site issues in AWS. I also contributed back solutions to the Drupal and ILIAS communities.
-* I worked on the General Services Administration’s (GSA) OpenACR project. OpenACR is a digital native Accessibility Conformance Report (ACR) product. I create validator, editor tools with tests in JavaScript, TypeScript, Node, and Svelte. I use GitHub to manage the source, run the tests in GitHub actions and deploy the editor to GitHub pages.
-* I contribute to the CivicActions accessibility practice area. Work with co-workers on improving how accessibility testing is included in our projects and community. I set up automated testing on the practice area’s website using pa11y, Cypress, Axe, and GitHub action. I shared the solutions with colleagues outside CivicActions like the General Services Administration’s 18F team. I published a post on [automated accessibility testing to Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing) and co-authored one on [adding tests to Drupal core](https://www.thedroptimes.com/30928/drupal-takes-step-forward-in-accessibility-with-automated-testing-integration).
+* I worked on the General Services Administration's (GSA) OpenACR project. OpenACR is a digital native Accessibility Conformance Report (ACR) product. I create validator, editor tools with tests in JavaScript, TypeScript, Node, and Svelte. I use GitHub to manage the source, run the tests in GitHub actions and deploy the editor to GitHub pages.
+* I contribute to the CivicActions accessibility practice area. Work with co-workers on improving how accessibility testing is included in our projects and community. I set up automated testing on the practice area's website using pa11y, Cypress, Axe, and GitHub action. I shared the solutions with colleagues outside CivicActions like the General Services Administration's 18F team. I published a post on [automated accessibility testing to Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing) and co-authored one on [adding tests to Drupal core](https://www.thedroptimes.com/30928/drupal-takes-step-forward-in-accessibility-with-automated-testing-integration).
 
 #### Previously
 
 * I worked for the University of Oregon as a [Senior Developer for Information Services](https://is.uoregon.edu/).
 * I worked on a Scrum team with 3 developers, 2 designers, and a product owner to develop and deploy web-based sites. [I was the scrum master and I helped coach team members on scrum practices](https://news.uoregon.edu/content/inspiring-teamwork-behind-adopting-new-technology).
 * I worked on an Angular + .NET solution that was deployed with continuous integration + deployment to Azure. In Azure, I helped set up and use multiple app services, functions, application insights, storage accounts, Graph API, Azure DevOps, and MySQL service.
-* I created customized install profiles, modules, and other Drupal features to meet the client’s requirements.
+* I created customized install profiles, modules, and other Drupal features to meet the client's requirements.
 * I was an active member of the UO Drupal committee.
 * I worked with system administrators to create Docker solutions for developers to run WordPress, Drupal, and other applications in Mac, Windows, and Linux environments. This included a Docker Swarm setup to host our legacy sites.
 
