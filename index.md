@@ -56,7 +56,7 @@ As an engineer:
 
 ### Certifications
 
-* [Acquia Certified Developer - Drupal 10](https://dev.acquia.com/person/community/daniel-mundra).
+* [Acquia Certified Developer - Drupal](https://dev.acquia.com/person/community/daniel-mundra).
 * [Advanced - Certified ScrumMaster](https://www.scrumalliance.org/community/profile/dmundra).
 * [CompTIA Security+](https://www.credly.com/badges/03512f09-d51a-4256-8427-6adc45542d9a/public_url).
 
