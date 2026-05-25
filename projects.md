@@ -10,7 +10,7 @@ Some of the applications and sites I have worked on that can still be seen onlin
 * [Tini's Chocolates](https://tinischocolates.com/): Drupal CMS site hosted at Hostinger.
 * [Tragedy of the Commons](https://tragedy.ronaldbmitchell.com/): Drupal CMS site hosted at Hostinger, hosting the [Drupal module](https://www.drupal.org/project/tragedy_commons) version of the game.
 * [OpenACR](https://github.com/GSA/openacr) and [OpenACR Editor](https://github.com/GSA/openacr-editor): OpenACR is a digital native Accessibility Conformance Report (ACR). The initial development is based on Section 508 requirements. The validator is built with TypeScript, Node and the editor is built with Svelte and JavaScript.
-* [GlobalNET platform](https://globalnetplatform.org/): The platform uses Drupal and Ilias to faciltate education, collaboration, and networking. It is powered by Drupal and Ilias.
+* [GlobalNET platform](https://globalnetplatform.org/): The platform uses Drupal and Ilias to facilitate education, collaboration, and networking. It is powered by Drupal and Ilias.
 * [The University of Oregon Senate website](https://senate.uoregon.edu/): Drupal site built with custom content-types and views to display Senate members, motions, meetings, and so on.
 * [Tini's Chocolates website](https://tinischocolates.com/): Site built on Wix.com.
 * [Oregon Theater Project](https://oregontheaterproject.uoregon.edu/): Drupal site built with Leaflet integrations for the mapping features. [GitHub repo](https://github.com/caspages/otp).
