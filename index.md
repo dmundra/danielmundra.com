@@ -6,15 +6,22 @@ toc: true
 toc_sticky: true
 ---
 
-### Freelance
+### Professional Summary
 
-I create and manage custom Drupal, HTML/CSS, and WordPress sites.
+I am an experienced engineering manager, senior software developer, and technical leader specializing in robust, scalable web applications and enterprise CMS architecture. I am passionate about building accessible digital experiences and managing teams to deliver high-quality solutions.
 
-I am comfortable configuring, maintaining, and using the LAMP (Linux, Apache, MySQL, PHP) stack. I work with hosting sites like Bluehost, Hostinger, Rackspace, and more to host the sites.
+**Mission-Driven Focus:** I am deeply committed to collaborative, community-focused environments. Outside of my corporate work, my active volunteer leadership with organizations like the Eugene ToolBox Project provides examples about my ability to manage teams, coordinate hiring processes, and guide projects outside of traditional technical structures.
 
-Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com).
+Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or [download my resume](Daniel_Mundra_Resume.pdf){: .btn .btn--primary}. You can also find me on [GitHub](https://github.com/dmundra).
 
-### Posts
+### Technical Expertise & Dev Infrastructure
+
+* **Core Platforms:** .NET, C#, PHP, Node.js, Python, Angular, TypeScript, Svelte, Drupal, WordPress, Jekyll.
+* **DevOps & Cloud:** AWS, Azure, Google Cloud, Docker, Jenkins, Git, GitLab, CI/CD pipelines.
+* **Web Accessibility:** Deep commitment to inclusive design (Section 508, WCAG 2.1 AA). I utilize distinct methodologies for identifying and prioritizing accessibility bugs leveraging tools like pa11y, Axe, and Cypress.
+* **Methodologies:** Certified Scrum Master, Agile project management, technical leadership, mentoring, and cross-functional team coordination.
+
+### Writing & Insights
 
 - [Handling bot traffic on government websites](https://medium.com/civicactions/handling-bot-traffic-on-government-websites-0a558c2db440)
 - [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8)
