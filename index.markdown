@@ -1,16 +1,10 @@
 ---
 title: About
 layout: single
-classes: wide
-author_profile: false
+author_profile: true
 toc: true
 toc_sticky: true
 ---
-
-<style>
-  .sidebar { display: none !important; }
-  @media (min-width: 64em) { .page { width: 100% !important; float: none !important; } }
-</style>
 
 ### Freelance
 
@@ -45,9 +39,9 @@ As an engineer:
 * I work on scrum teams with developers, DevSecOps engineers, QA engineers, project manager, and product owner. I serve as a backend, DevOps, and lead engineer working primarily on [Drupal](https://www.drupal.org/u/dmundra) to build enterprise-level websites for client organizations.
 * I am DevOps lead for the National Science Foundation main site and I work with a team to support Jenkins and AWS infrastructure. I ensure the developers have stable Jenkins jobs for their code changes and are getting timely feedback for their work.
 * I supported multiple Drupal data sites for Centers of Medicare and Medicaid Services by doing code reviews and writing tests for the open source DKAN project that powers the sites.
-* I worked on the Defense Security Cooperation Agency’s GlobalNET platform project. I created Drupal and ILIAS solutions and tests that make up the platform. I also worked with the DevSecOps engineers to improve our continuous integration that runs on Docker and GitLab and help troubleshoot site issues in AWS. I also contributed back solutions to the Drupal and ILIAS communities.
+* I worked on the Defense Security Cooperation Agency's GlobalNET platform project. I created Drupal and ILIAS solutions and tests that make up the platform. I also worked with the DevSecOps engineers to improve our continuous integration that runs on Docker and GitLab and help troubleshoot site issues in AWS. I also contributed back solutions to the Drupal and ILIAS communities.
 * I worked on the General Services Administration’s (GSA) OpenACR project. OpenACR is a digital native Accessibility Conformance Report (ACR) product. I create validator, editor tools with tests in JavaScript, TypeScript, Node, and Svelte. I use GitHub to manage the source, run the tests in GitHub actions and deploy the editor to GitHub pages.
-* I contribute to the CivicActions accessibility practice area. Work with co-workers on improving how accessibility testing is included in our projects and community. I set up automated testing on the practice area’s website using pa11y, Cypress, Axe, and GitHub action. I shared the solutions with colleagues outside CivicActions like the General Services Administration’s 18F team. I recently published a post on [automated accessibility testing to Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing).
+* I contribute to the CivicActions accessibility practice area. Work with co-workers on improving how accessibility testing is included in our projects and community. I set up automated testing on the practice area’s website using pa11y, Cypress, Axe, and GitHub action. I shared the solutions with colleagues outside CivicActions like the General Services Administration’s 18F team. I published a post on [automated accessibility testing to Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing) and co-authored one on [adding tests to Drupal core](https://www.thedroptimes.com/30928/drupal-takes-step-forward-in-accessibility-with-automated-testing-integration).
 
 #### Previously
 

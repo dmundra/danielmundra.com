@@ -2,14 +2,8 @@
 layout: single
 title: Projects
 permalink: /projects/
-classes: wide
-author_profile: false
+author_profile: true
 ---
-
-<style>
-  .sidebar { display: none !important; }
-  @media (min-width: 64em) { .page { width: 100% !important; float: none !important; } }
-</style>
 
 Some of the applications and sites I have worked on that can still be seen online:
 * [Nita Dhurandhar Art](https://ndhurandhar.art/): Drupal CMS site hosted at Hostinger.
