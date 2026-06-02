@@ -21,6 +21,7 @@ Get in touch at [projects@danielmundra.com](mailto:projects@danielmundra.com) or
 
 ### Writing & Insights
 
+- [Stabilizing website performance](https://blog.civicactions.com/stabilizing-website-performance-e1065360851f): outlines strategies for managing government website stability during traffic spikes, particularly those caused by bot activity. It emphasizes establishing a clear performance baseline, highlights the importance of multi-layered caching to reduce load, and recommends using load testing tools to proactively identify and address bottlenecks.
 - [Handling bot traffic on government websites](https://medium.com/civicactions/handling-bot-traffic-on-government-websites-0a558c2db440): details how we identified and mitigated a surge in malicious bot traffic using strategies like regional blocking, rate limiting, JavaScript challenges, and JA4 fingerprinting to safeguard website performance and reduce infrastructure costs.
 - [Level up your version control with automation](https://medium.com/civicactions/level-up-your-version-control-with-automation-e01266c492b8): co-authored with Dr. Eryn Cangi, explains how intermediate Git users can leverage automation tools—such as linting, automated testing, pull request protections, and secrets management—to eliminate workflow errors and save valuable time.
 - [Automated accessibility testing at Opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing)
