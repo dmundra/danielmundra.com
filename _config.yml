@@ -50,8 +50,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
 
-google_analytics: G-20CD9NKQ9N
-
 # Analytics
 analytics:
   provider: "google-gtag"
