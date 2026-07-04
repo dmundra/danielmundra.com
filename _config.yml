@@ -54,7 +54,7 @@ google_analytics: G-20CD9NKQ9N
 
 # Analytics
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
     tracking_id: "G-20CD9NKQ9N"
 
