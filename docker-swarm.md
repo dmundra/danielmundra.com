@@ -7,9 +7,9 @@ toc: true
 toc_sticky: true
 ---
 
-_Archived page from 2020_
-
 CASIT Web services has been researching a developing a system to host our WordPress, Drupal and other legacy sites. The system as designed revolves around a few key technologies. Primarily Docker Swarm as the management and orchestration system. Nginx as the reverse proxy, loadbalancer, SSL processor and caching system. NFS and Convoy as the persistent data storage system hosted on Netapp filers. The system is designed around a single user community not as a shared services model.
+
+_Note: This is an archived page from 2020_
 
 ## Container Cluster Orchestration
 We selected Docker swarm after investigating many other orchestration stacks. All of the other stacks required picking up several different technologies to provide a working solution. Swarm's only missing layer is the intelligent layer seven reverse proxy. We therefore landed on swarm to limit our technology foot print and as a way to stay developer focused. Many of the other systems had a more operations direction. Since we are primarily a development shop we wanted the stack to lean that way.
