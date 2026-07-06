@@ -16,7 +16,7 @@ Checking links using `umbrelladocs/action-linkspector`. Configuration in the `.c
 
 Tests the site for accessibility issues using pa11y-ci. The results of the tests are added as comment on the pull request.
 
-pa11y-ci is configured with the file [.pa11yci](.pa11yci) and it is setup to use Axe and follow WCAG2 AA standard.
+pa11y-ci is configured with the file [.pa11yci](../../.pa11yci) and it is setup to use Axe and follow WCAG2 AA standard.
 
 The pa11y-ci commands can also be run locally to generate the same test results:
 
@@ -28,20 +28,20 @@ The pa11y-ci commands can also be run locally to generate the same test results:
 
 Run remark-lint with reviewdog on pull requests to check for readability and other text checks. Configuration in the `.config/remark` folder.
 
-# References
+## References
 
-* https://github.com/pa11y/pa11y
-* https://github.com/pa11y/pa11y-ci
-* https://andrewmee.com/posts/automated-accessibility-testing-node-travis-ci-pa11y/
-* https://engineering.18f.gov/accessibility-scanning/
-* https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf
-* https://stackoverflow.com/questions/58858429/how-to-run-a-github-actions-step-even-if-the-previous-step-fails-while-still-f
-* https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file
-* https://github.com/marketplace/actions/comment-pull-request
-* https://pre-commit.com/
-* https://github.blog/2021-04-28-use-github-actions-manage-docs/
-* https://stackoverflow.com/questions/62325286/run-github-actions-when-pull-requests-have-a-specific-label
-* https://github.com/marketplace/actions/push-directory-to-another-repository
-* https://github.com/marketplace/actions/find-and-replace
-* https://github.com/gjtorikian/html-proofer
-* https://danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html
+* <https://github.com/pa11y/pa11y>
+* <https://github.com/pa11y/pa11y-ci>
+* <https://andrewmee.com/posts/automated-accessibility-testing-node-travis-ci-pa11y/>
+* <https://engineering.18f.gov/accessibility-scanning/>
+* <https://medium.com/@f3igao/how-to-automate-web-accessibility-testing-921512bdd4bf>
+* <https://stackoverflow.com/questions/58858429/how-to-run-a-github-actions-step-even-if-the-previous-step-fails-while-still-f>
+* <https://stackoverflow.com/questions/57915432/write-output-of-npm-run-start-to-a-file>
+* <https://github.com/marketplace/actions/comment-pull-request>
+* <https://pre-commit.com/>
+* <https://github.blog/2021-04-28-use-github-actions-manage-docs/>
+* <https://stackoverflow.com/questions/62325286/run-github-actions-when-pull-requests-have-a-specific-label>
+* <https://github.com/marketplace/actions/push-directory-to-another-repository>
+* <https://github.com/marketplace/actions/find-and-replace>
+* <https://github.com/gjtorikian/html-proofer>
+* <https://danielsieger.com/blog/2021/03/28/check-broken-links-jekyll.html>
