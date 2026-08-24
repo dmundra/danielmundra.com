@@ -51,10 +51,10 @@ plugins:
   - jekyll-sitemap
 
 # Analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-20CD9NKQ9N"
+#analytics:
+#  provider: "google-gtag"
+#  google:
+#    tracking_id: "G-20CD9NKQ9N"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
