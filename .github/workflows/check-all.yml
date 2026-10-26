@@ -4,8 +4,8 @@ permissions:
 
 on:
   # Automatic check weekly
-  schedule:
-    - cron: "0 9 * * 1"
+  #schedule:
+  #  - cron: "0 9 * * 1"
   # Manually triggered using GitHub's UI
   workflow_dispatch:
 
